@@ -1,0 +1,2 @@
+# sololearnPlayground
+そのまんま
